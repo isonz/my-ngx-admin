@@ -1,0 +1,21 @@
+{
+  "Sign In": "登录",
+  "Sign Up": "注册",
+  "Username": "账号",
+  "Password": "密码",
+  "Username is required": "账号不能为空！",
+  "Username should be the real one": "账号必须大于4位且小于30位！",
+  "Password is required": "密码不能为空！",
+  "Password should be the real one": "密码必须大于6位且小于30位！",
+  "Remember me": "记住账号和密码",
+  "Forgot Password": "忘记密码",
+  "Don't have an account": "还没账号",
+
+  "Oh snap!" : "出错！",
+  "Hooray!": "成功！",
+  "Login/Email combination is not correct, please try again.": "登录信息错误，请重试。",
+  "You have been successfully logged in.": "登入成功。"
+
+
+
+}
